@@ -1,0 +1,8 @@
+docker-compose up -d
+
+
+
+En la consola del docker - Para ingresar a la consola de mysql: mysql -u root -p
+contraseña: root_password
+
+Si no inicia con las tablas creadas, copiar desde init.sql
